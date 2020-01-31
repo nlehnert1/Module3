@@ -150,7 +150,6 @@
     <Compile Include="Assets\SteamVR\InteractionSystem\Core\Scripts\LinearDrive.cs" />
     <Compile Include="Assets\SteamVR\InteractionSystem\Core\Scripts\LinearMapping.cs" />
     <Compile Include="Assets\SteamVR\InteractionSystem\Core\Scripts\ModalThrowable.cs" />
-    <Compile Include="Assets\SteamVR\InteractionSystem\Core\Scripts\Player.cs" />
     <Compile Include="Assets\SteamVR\InteractionSystem\Core\Scripts\PlaySound.cs" />
     <Compile Include="Assets\SteamVR\InteractionSystem\Core\Scripts\RenderModel.cs" />
     <Compile Include="Assets\SteamVR\InteractionSystem\Core\Scripts\SeeThru.cs" />
